@@ -45,7 +45,7 @@
 
     class UserMain
     {
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             User adminUser = new Admin("Alice");
             adminUser.AccessControl();
