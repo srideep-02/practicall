@@ -24,7 +24,7 @@
             Console.WriteLine($"\nRollNo:{this.rollNo},Name:{this.name}");
         }
 
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             Console.Write("Enter rollno: ");
             int rollno = Convert.ToInt32(Console.ReadLine());
