@@ -24,7 +24,7 @@
 
     class Player
     {
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             MusicPlayer mp = new MusicPlayer();
             mp.play();
