@@ -40,7 +40,7 @@
 
     class DepartmentMain
     {
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             Manager m = new Manager("Ajay");
             Department d1 = new Department("EEE", m);
