@@ -7,7 +7,7 @@ class ConfigurationManager
 
     private ConfigurationManager() { }
 
-    public static void Mainn(string[] args) {   GetInstance(); }
+    public static void Main(string[] args) {   GetInstance(); }
 
     public static ConfigurationManager GetInstance()
     {
