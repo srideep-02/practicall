@@ -25,7 +25,7 @@
             Console.WriteLine($"title {this.title}, author {author}, ISBN {ISBN} are initialised successfully\n");
         }
 
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             Book lib = new Book();
             Book lib2 = new Book("The Midnight Library", "Matt Haig");
