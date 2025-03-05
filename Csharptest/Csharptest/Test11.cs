@@ -20,7 +20,7 @@
             return new Complex(a.Real + b.Real, a.Imag + b.Imag);
         }
 
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             Complex comp = new Complex(1, 2);
             Complex comp2 = new Complex(2, 3);
