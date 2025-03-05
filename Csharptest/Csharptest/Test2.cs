@@ -34,7 +34,7 @@
             Console.WriteLine($"\nWithdrawal successful.\nBalance amount = {balance}\n");
         }
 
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             BankAccount account = new BankAccount();
 
