@@ -37,7 +37,7 @@
 
     class ShapeMain
     {
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             Circle circle = new Circle(10);
             circle.calculateArea();
