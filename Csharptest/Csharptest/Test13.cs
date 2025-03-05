@@ -12,7 +12,7 @@
 
     class BankMain
     {
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             Bank bank = new Bank();
             Bank.setInterestRate(20);
