@@ -54,7 +54,7 @@
 
     class PersonMain
     {
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             Person P = new student("21h51a6238", "srideep", 22, "VIII");
             P.GetDetails();
