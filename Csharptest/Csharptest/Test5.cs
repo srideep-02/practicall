@@ -26,7 +26,7 @@
 
     class VehicleMain
     {
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             Vehicle v = new Vehicle();
             v.start();
