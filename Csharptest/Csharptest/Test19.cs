@@ -53,7 +53,7 @@ class NotificationService
 
 class Mainprogram
 {
-    public static void Mainn(string[] args)
+    public static void Main(string[] args)
     {
         NotificationService notificationService = new NotificationService();
 
