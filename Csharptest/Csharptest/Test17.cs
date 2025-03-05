@@ -31,7 +31,7 @@ class TimestampLogger : ILogger
 
 class program
 {
-    public static void Mainn(string[] args)
+    public static void Main(string[] args)
     {
         ILogger fileLogger = new FileLogger();
         fileLogger.Log("This is a simple log message.");
