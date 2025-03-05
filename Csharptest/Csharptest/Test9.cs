@@ -39,7 +39,7 @@
         }
 
 
-        static void Mainn()
+        static void Main()
         {
             Report report = new Report("This is the report content.");
             report.displayDetails();
