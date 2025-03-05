@@ -79,7 +79,7 @@ class ShoppingCart
 }
 class mainrogram
 {
-    public static void Mainn(string[] args)
+    public static void Main(string[] args)
     {
         double totalAmount = 500;
 
