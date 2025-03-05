@@ -17,7 +17,7 @@
             return x + y;
         }
 
-        public static void Mainn(string[] args)
+        public static void Main(string[] args)
         {
             Calculator calculator = new Calculator();
             Console.WriteLine(calculator.Add(2, 3));
