@@ -42,7 +42,7 @@ class VehicleFactory
 }
 class Program
 {
-    public static void Mainn(string[] args)
+    public static void Main(string[] args)
     {
         try
         {
